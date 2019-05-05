@@ -1,6 +1,6 @@
 # Created by Animesh Patel on 05/05/19.
 # Copyright © 2019 Animesh Patel. All rights reserved.
-# Title: A two player tic tac toe game in Python3.
+# Title: A two player tic tac toe game in Python 3.
 
 from random import *
 
