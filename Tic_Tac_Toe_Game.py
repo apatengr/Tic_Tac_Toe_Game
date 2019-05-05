@@ -105,6 +105,8 @@ def game_on():
         display_board(board)
         
         won = rules_for_win(board,player_turn, player_sign)
+        if won:
+            break
         tie = rules_for_tie(board)
         count += 1
 game_on()
